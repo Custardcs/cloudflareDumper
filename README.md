@@ -92,14 +92,6 @@ node cf.js
 - GET /zones/:id/workers/scripts
 - GET /accounts/:id/workers/scripts
 
-## Security Notice
-
-Avoid committing your `.env` file to version control. It contains sensitive API credentials. Use `.gitignore` to protect it:
-
-```
-echo ".env" >> .gitignore
-```
-
 ## License
 
 MIT License. This project is provided as-is with no warranty.

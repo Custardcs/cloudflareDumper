@@ -67,7 +67,7 @@ npm install dotenv
 
 Run the script:
 ```
-node cloudflare-dump.js
+node cf.js
 ```
 
 ## How It Works
